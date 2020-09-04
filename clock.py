@@ -8,3 +8,4 @@ def welcome_layout():
     print (output)
 
 welcome_layout()
+print("\t\t\tFind Time with Your terminal")
