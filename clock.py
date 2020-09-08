@@ -2,6 +2,7 @@
 import pyfiglet
 import time
 print("ok,let's begain")
+print("hello human")
     
 def welcome_layout():
     output = pyfiglet.figlet_format("World Clock") 
